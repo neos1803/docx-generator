@@ -1,0 +1,7 @@
+name=John Smith
+key=your key
+host=your gitlab host
+after=2024-06-01
+before=2024-06-04
+userId=your user id
+sort=asc

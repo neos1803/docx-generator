@@ -1,0 +1,4 @@
+- You can run the executable directly on windows, but you need to add an a value on init.txt.
+- init.txt acts like an input.
+- The time format on after/before variable in init.txt should be in YYYY-MM-DD format.
+- userid is your id on gitlab. You can find it on profile settings.
